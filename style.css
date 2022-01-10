@@ -91,3 +91,14 @@ p {
 .paragraph-link:hover {
   color: #0652c4;
 }
+@media (max-width: 576px) {
+  .paragraph-link {
+    font-size: 13px;
+  }
+  h1 {
+    font-size: 60px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+}
